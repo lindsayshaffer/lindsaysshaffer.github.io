@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "PSYC 304: Principles of Learning (Lab)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "George Mason University, Department of Psychology"
+date: 2019-01-01
 location: "City, Country"
 ---
 
