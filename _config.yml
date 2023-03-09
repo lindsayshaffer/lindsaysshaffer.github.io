@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lindsay S. Shaffer / Cognitive Neuroscience PhD Student"
+title                    : "Lindsay S. Shaffer"
 title_separator          : "-"
 name                     : &name "Lindsay S. Shaffer"
 description              : &description "personal description"
