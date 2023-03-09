@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lindsay S. Shaffer / Cognitive Neuroscience PhD Student"
 title_separator          : "-"
 name                     : &name "Lindsay S. Shaffer"
 description              : &description "personal description"
-url                      : https://lindsaysshaffer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lindsayshaffer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lindsaysshaffer.github.io"
+repository               : "lindsayshaffer/lindsayshaffer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
