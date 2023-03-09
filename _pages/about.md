@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-about me
+About Me
 ======
 
 I am in my 5th year in the cognitive & behavioral neuroscience PhD program at George Mason University. 
