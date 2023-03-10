@@ -15,6 +15,6 @@ I am in my 5th year in the Cognitive & Behavioral Neuroscience PhD program at Ge
 
 I am also a Predoctoral Fellow through the National Science Foundation Research Traineeship Program (NSF NRT) through the Center for Adaptive Systems of Brain-Body Interactions. Through the NRT, I co-founded the IMPACT-PD Project that focuses on developing a user-friendly communication interface for people with Parkinson's disease, their carepartners, and healthcare team. The IMPACT-PD Project also focuses on improving measures of remote data collection, especially for non-motor symptoms, and developing a Continuing Education (CE) course for non-neurologist health providers.
 
-In my spare time, I enjoy knitting, tinkering with computers, fashion, videogames, hiking, and spending time with my family. I previously did professional stints with the Kennedy Center Honors for a few years.
+In my spare time, I enjoy knitting, tinkering with computers, fashion, videogames, hiking, and spending time with my family. I previously did professional stints as a backup choir member with the Kennedy Center Honors and TNT's Christmas in Washington for 5 years.
 
 I am an avid pro-wrestling fan. My favorite pro-wrestlers are Shawn Michaels, Becky Lynch, Sting, MJF, Malakai Black, Cody Rhodes, and Undertaker.
